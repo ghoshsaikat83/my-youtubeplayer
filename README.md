@@ -1,1 +1,1 @@
-# myyoutubeplayer
+# my-youtubeplayer
